@@ -1,6 +1,6 @@
  # Income & Expenses  
 
- 
+ <img src="../images/incomeexpenses/incomeexpenses.png" alt="incomeexpenses" width="300">
 
 ![Income & Expenses](../images/incomeexpenses/incomeexpenses.png)
 
