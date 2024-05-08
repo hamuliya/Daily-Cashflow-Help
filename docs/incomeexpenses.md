@@ -2,8 +2,6 @@
 
  <img src="../images/incomeexpenses/incomeexpenses.png" alt="incomeexpenses" width="300">
 
-![Income & Expenses](../images/incomeexpenses/incomeexpenses.png)
-
 
 **Red, green, and orange dots represent expenses, income, and future payments respectively.**
 
@@ -11,15 +9,22 @@
 
 
 ## Monthly Information
-![Monthly Information](../images/icons/monthlyinfo.png)
+
+ <img src="../images/icons/monthlyinfo.png" alt="incomeexpenses" width="300">
+
 
 **Click the Blue Icon, it will show the Monthly Information.**
-![Monthly Information](../images/incomeexpenses/monthlyInfo.png)
+
+ <img src="../images/incomeexpenses/monthlyInfo.png" alt="incomeexpenses" width="300">
+
 
 
 **Click the arrows of the monthly calendar to display information for other months.**
 
 ## Monthly Budgets & Goals Plan
-![Monthly Budgets & Goals Plan](../images/icons/plan.png)
 
-![Monthly Budgets & Goals Plan](../images/incomeexpenses/plandetail.png)
+ <img src="../images/icons/plan.png" alt="incomeexpenses" width="10">
+
+ <img src="../images/incomeexpenses/plandetail.png" alt="incomeexpenses" width="300">
+
+
