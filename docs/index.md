@@ -25,3 +25,7 @@
 **Copy**
 
 ![Copy](../images/icons/copy.png)
+
+**Hint**
+
+![Hint](../images/icons/hint.png)
