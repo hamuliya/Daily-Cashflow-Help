@@ -10,7 +10,7 @@
 
 ## Monthly Information
 
- <img src="../images/icons/monthlyinfo.png" alt="incomeexpenses" width="300">
+ <img src="../images/icons/monthlyinfo.png" alt="incomeexpenses" width="30">
 
 
 **Click the Blue Icon, it will show the Monthly Information.**
@@ -23,7 +23,7 @@
 
 ## Monthly Budgets & Goals Plan
 
- <img src="../images/icons/plan.png" alt="incomeexpenses" width="10">
+ <img src="../images/icons/plan.png" alt="incomeexpenses" width="30">
 
  <img src="../images/incomeexpenses/plandetail.png" alt="incomeexpenses" width="300">
 
